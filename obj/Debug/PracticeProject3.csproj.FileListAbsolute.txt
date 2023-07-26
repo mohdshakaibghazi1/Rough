@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\PracticeProject3\PracticeProject3\PracticeProject3\bin\Debug\PracticeProject3.exe.config
+C:\Users\moham\source\repos\PracticeProject3\PracticeProject3\PracticeProject3\bin\Debug\PracticeProject3.exe
+C:\Users\moham\source\repos\PracticeProject3\PracticeProject3\PracticeProject3\bin\Debug\PracticeProject3.pdb
+C:\Users\moham\source\repos\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.exe
+C:\Users\moham\source\repos\PracticeProject3\PracticeProject3\PracticeProject3\obj\Debug\PracticeProject3.pdb
